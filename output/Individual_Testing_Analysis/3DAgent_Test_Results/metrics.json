@@ -1,0 +1,63 @@
+{
+  "dataset_name": "3DAgent_Test_Results",
+  "total_episodes": 100,
+  "total_columns": 9,
+  "numeric_metrics": {
+    "Episode": {
+      "mean": 50.5,
+      "std": 29.0,
+      "min": 1.0,
+      "max": 100.0,
+      "median": 50.5
+    },
+    "VictimsRescued": {
+      "mean": 2.9,
+      "std": 2.0,
+      "min": 0.0,
+      "max": 6.0,
+      "median": 3.0
+    },
+    "TotalVictims": {
+      "mean": 6.0,
+      "std": 0.0,
+      "min": 6.0,
+      "max": 6.0,
+      "median": 6.0
+    },
+    "StepsTaken": {
+      "mean": 2677.8,
+      "std": 1842.9,
+      "min": 0.0,
+      "max": 5000.0,
+      "median": 2992.0
+    },
+    "PathEfficiency": {
+      "mean": 1.358,
+      "std": 0.532,
+      "min": 0.709,
+      "max": 2.977,
+      "median": 1.203
+    },
+    "DistanceTraveled": {
+      "mean": 243.03,
+      "std": 158.34,
+      "min": 0.0,
+      "max": 507.2,
+      "median": 261.65
+    },
+    "DroneHP": {
+      "mean": 247.63,
+      "std": 214.65,
+      "min": -21.4,
+      "max": 500.0,
+      "median": 255.65
+    },
+    "ExploredCells": {
+      "mean": 73.6,
+      "std": 58.0,
+      "min": 0.0,
+      "max": 195.0,
+      "median": 67.0
+    }
+  }
+}

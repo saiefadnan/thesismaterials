@@ -1,0 +1,105 @@
+{
+  "dataset_name": "2DMultiAgent_Test_Results",
+  "total_episodes": 100,
+  "total_columns": 15,
+  "numeric_metrics": {
+    "Episode": {
+      "mean": 50.5,
+      "std": 29.0,
+      "min": 1.0,
+      "max": 100.0,
+      "median": 50.5
+    },
+    "TeamVictimsRescued": {
+      "mean": 6.0,
+      "std": 0.1,
+      "min": 6.0,
+      "max": 7.0,
+      "median": 6.0
+    },
+    "TotalVictims": {
+      "mean": 6.0,
+      "std": 0.0,
+      "min": 6.0,
+      "max": 6.0,
+      "median": 6.0
+    },
+    "StepsTaken": {
+      "mean": 265.6,
+      "std": 84.1,
+      "min": 95.0,
+      "max": 483.0,
+      "median": 272.0
+    },
+    "Agent0Goals": {
+      "mean": 2.5,
+      "std": 0.7,
+      "min": 1.0,
+      "max": 4.0,
+      "median": 2.0
+    },
+    "Agent1Goals": {
+      "mean": 1.6,
+      "std": 0.6,
+      "min": 0.0,
+      "max": 3.0,
+      "median": 2.0
+    },
+    "Agent2Goals": {
+      "mean": 2.0,
+      "std": 0.7,
+      "min": 0.0,
+      "max": 4.0,
+      "median": 2.0
+    },
+    "Agent0HP": {
+      "mean": 95.23,
+      "std": 9.59,
+      "min": 61.4,
+      "max": 100.0,
+      "median": 100.0
+    },
+    "Agent1HP": {
+      "mean": 97.2,
+      "std": 7.85,
+      "min": 58.8,
+      "max": 100.0,
+      "median": 100.0
+    },
+    "Agent2HP": {
+      "mean": 95.8,
+      "std": 10.01,
+      "min": 39.8,
+      "max": 100.0,
+      "median": 100.0
+    },
+    "Agent0Efficiency": {
+      "mean": 1.81,
+      "std": 0.744,
+      "min": 0.771,
+      "max": 4.452,
+      "median": 1.773
+    },
+    "Agent1Efficiency": {
+      "mean": 1.987,
+      "std": 0.924,
+      "min": 0.61,
+      "max": 5.677,
+      "median": 1.761
+    },
+    "Agent2Efficiency": {
+      "mean": 1.777,
+      "std": 0.751,
+      "min": 0.702,
+      "max": 5.592,
+      "median": 1.643
+    },
+    "TeamExploredCells": {
+      "mean": 23.3,
+      "std": 4.9,
+      "min": 14.0,
+      "max": 34.0,
+      "median": 24.0
+    }
+  }
+}
